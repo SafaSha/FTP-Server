@@ -1,0 +1,11 @@
+Client [ip: 192.168.8.121]: Client attempted cwd() at Mon Oct 25 14:15:15 2021
+Client [ip: 192.168.8.121]: Client attempted cd() at Mon Oct 25 14:15:22 2021
+Client [ip: 192.168.8.121]: Current directory has changed successfully at Mon Oct 25 15:48:19 2021
+Client [ip: 192.168.8.121]: Client attempted cwd() at Mon Oct 25 15:48:23 2021
+Client [ip: 192.168.8.121]: Current directory  has been displayed successfully at Mon Oct 25 15:48:23 2021
+Client [ip: 192.168.8.121]: Client attempted cd() at Mon Oct 25 15:48:27 2021
+Client [ip: 192.168.8.121]: Changing directory has been failed at Mon Oct 25 15:48:27 2021
+Client [ip: 192.168.8.121]: Client attempted cd() at Mon Oct 25 15:48:30 2021
+Client [ip: 127.0.0.1]: Current directory has changed successfully at Tue Oct 26 12:36:16 2021
+Client [ip: 127.0.0.1]: Client attempted dir() at Tue Oct 26 12:36:34 2021
+Client [ip: 127.0.0.1]: Current dir contents has been displayed successfully at Tue Oct 26 12:36:34 2021
